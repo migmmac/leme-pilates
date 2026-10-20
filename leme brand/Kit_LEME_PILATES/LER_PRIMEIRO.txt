@@ -1,0 +1,23 @@
+LEME PILATES — KIT DE MARCA v1.0
+
+1. LOGOS
+SVG vetoriais por traçado da referência aprovada. LP diagonal e logo completo.
+Versões Bordeaux (#591C2B), Marfim (#F1EDE5) e Preto.
+Não compor o logo escrevendo o nome numa fonte. Validar o traçado com o fornecedor antes de produção industrial.
+Os PNG transparentes são versões rasterizadas dos mesmos vetores.
+
+2. FONTES
+Instalar Fraunces Regular/Bold e Manrope Regular/Semibold antes de editar o PowerPoint.
+Licenças SIL OFL 1.1 incluídas. Não vender os ficheiros de fontes isoladamente.
+
+3. NEWSLETTERS
+Os HTML são modelos editáveis e funcionam como pré-visualização local.
+Antes de importar na plataforma: carregar o PNG do logo e trocar o caminho local pelo URL público; definir os links reais nos CTAs; acrescentar os campos de preferências e cancelamento da plataforma; enviar teste para telemóvel.
+A fonte usa Georgia/Arial como alternativa quando Fraunces/Manrope não estão disponíveis no cliente de email.
+Nenhum envio foi realizado.
+
+4. PRODUÇÃO
+Pantone 7421 C e Cool Gray 5 C são referências aproximadas. Validar em guia físico e no suporte escolhido.
+CMYK indicado no livro é estimativa sem perfil ICC. Aprovar separação e prova com a gráfica.
+Cromado é acabamento, não uma cor plana.
+As imagens do livro são estudos conceptuais gerados, não fotografias de instalações reais.
